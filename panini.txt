@@ -1,0 +1,6 @@
+1,FishOne,Salmone; Salsa rosa; Cipolla,7.50
+2,BigCrunch,Manzo;Salsa tonnata; Mandorle,6.50
+3,SuperVeggie,Melanzane; Pomodori; Lattuga,5.00
+4,CrispChicken,Pollo; Salsa Caesar; Lattuga,6.00
+5,TheFarm,Salame; Salsa carciofi; Provola,5.50
+6,GrandMa,Tonno; giardiniera; Svizzero, 6.00
